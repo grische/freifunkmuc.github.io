@@ -38,7 +38,7 @@ Siehe [Empfehlungen von Freifunk Aachen](https://wiki.freifunk.net/Freifunk_Aach
 
 Neu im nächsten Release (v2024+)
 * Zyxel Multy M1 (ca 35€)
-* Cudy WR3000 (ca 55€)
+* ~~Cudy WR3000 (ca 55€)~~ (aktuell defekter Treiber)
 * Netgear WAX220 (ca. 130€)
 
 
